@@ -1,2 +1,2 @@
 # tlc-dental-server
-This is an static page for TLC Dental
+This is the server for the TLC-Dental project
